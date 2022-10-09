@@ -1,3 +1,5 @@
+[Buse Tozlu wwww.patika.dev.com profil linkim](https://app.patika.dev/bstzlu)
+
 # Kodluyoruz Ilk Repo
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
